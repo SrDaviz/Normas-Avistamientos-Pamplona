@@ -13,7 +13,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 - **Community Day**: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
 
 - **POKEMONS QUE SE AVISAN**:
- ***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
+***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
 ***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
 ***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
 
