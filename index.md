@@ -5,7 +5,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
-🔞 Como somos una comunidad muy grande y de todas las edades, no está permitida la entrada a menores de edad por las responsibilidades que puedan acarraear
+🔞 Como somos una comunidad muy grande y de todas las edades, no está permitida la entrada a menores de edad por las responsibilidades que puedan acarrear
 
 📢 Este grupo sirve para avisar de la aparición de pokemon poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
 
