@@ -1,31 +1,31 @@
 ## Normas Avistamientos Pamplona
 
-POR FAVOR, LEEDLO
+**POR FAVOR, LEEDLO**
 Bienvenid@s entrenador@s!
-Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de NORMAS:
+Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
 
-- Este grupo sirve para avisar de la aparición de pokemons poco usuales en algún sitio de Pamplona y SÓLO para avisar de dichas apariciones.
+- Este grupo sirve para avisar de la aparición de pokemons poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
 
--Al avisar de dicho pokemon se debe decir en DÓNDE y la HORA a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
+-Al avisar de dicho pokemon se debe decir en **DÓNDE** y la **HORA** a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
 
--  NO se avisa ante cualquier Pokemon, sólo aquellos que sean difíciles de encontrar y no haya un EVENTO por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
+-  **NO se avisa ante cualquier Pokemon**, sólo aquellos que sean difíciles de encontrar y no haya un EVENTO por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
 
-- Community Day: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
+- **Community Day**: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
 
-- POKEMONS QUE SE AVISAN:
- GEN1: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
-GEN2: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
-GEN3: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
+- **POKEMONS QUE SE AVISAN**:
+ ***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
+***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
+***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
 
-También cualquiera con IV 96% en adelante que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso SÓLO SE AVISARÁ SI ES 100% )
+También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
 
-- NO informéis de los NIDOS por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
+- **NO informéis de los NIDOS** por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
 
-- NO informéis de SHINYS/VARIOCOLORES, pues son algo individual y aparecen aleatoriamente.
+- **NO informéis de SHINYS/VARIOCOLORES**, pues son algo individual y aparecen aleatoriamente.
 
-- Para que todos podamos distinguir la información que nos interesa y no perderla entre otros comentarios, se BORRARÁN todos aquellos mensajes que no sean avistamientos de los Pokemons de la lista. Si podéis dar la misma información en un sólo mensaje, no la deis en dos. También procurad absteneros de preguntar e informar de cosas poco relevantes (si no conocéis la ubicación exacta pedid ubicación simplemente, si no os da tiempo no tenéis que informarlo, si lo capturáis nos alegramos todos, pero no hace falta que lo retransmitáis a menos que sea para indicar que sigue allí y, aunque es de bien nacido el ser agradecido, no deis las gracias por el grupo).
+- Para que todos podamos distinguir la información que nos interesa y no perderla entre otros comentarios, se **BORRARÁN** todos aquellos mensajes que no sean avistamientos de los Pokemons de la lista. Si podéis dar la misma información en un sólo mensaje, no la deis en dos. También procurad absteneros de preguntar e informar de cosas poco relevantes (si no conocéis la ubicación exacta pedid ubicación simplemente, si no os da tiempo no tenéis que informarlo, si lo capturáis nos alegramos todos, pero no hace falta que lo retransmitáis a menos que sea para indicar que sigue allí y, aunque es de bien nacido el ser agradecido, no deis las gracias por el grupo).
 
-- Aquellos que no cumplan las indicaciones antes dadas (enviar mensajes intrascendentes, pokemon que no vienen en la lista, etc) podrán ser BANEADOS temporalmente si, tras dos avisos (daos por aludidos si se borran mensajes vuestros), continúan con la misma actitud. Si dicha actitud persiste, la expulsión podrá ser PERMANENTE.
+- Aquellos que no cumplan las indicaciones antes dadas (enviar mensajes intrascendentes, pokemon que no vienen en la lista, etc) podrán ser **BANEADOS** temporalmente si, tras dos avisos (daos por aludidos si se borran mensajes vuestros), continúan con la misma actitud. Si dicha actitud persiste, la expulsión podrá ser **PERMANENTE**.
 
 - Para las personas interesadas en otros pokemons, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
@@ -35,8 +35,8 @@ También cualquiera con IV 96% en adelante que aparezca. (Exceptuando Pokemon mu
 
 
 
-INSTRUCCIONES PARA EL BOT DR. DITTO
-Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando /register c53e1d en un mensaje privado a @drditto_bot. ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
+**INSTRUCCIONES PARA EL BOT DR. DITTO**
+Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando **/register c53e1d** en un mensaje privado a @drditto_bot. ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, `<addr>`aa  ¿No?
 
 Para crear una investigación debéis teclear por privado /research y el bot os guiará paso a paso con todo lo que necesita.
 
