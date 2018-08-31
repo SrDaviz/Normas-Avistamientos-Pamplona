@@ -31,7 +31,7 @@ También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemo
 
 - Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ
+- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ - ¡link automático!
 
 
 
@@ -42,13 +42,13 @@ Para crear una investigación debéis teclear por privado /research y el bot os 
 
 Los datos que te pedirá son: 
 
--  Me tienes que enviar un mapa con la ubicación de la misión
+-  *Me tienes que enviar un mapa con la ubicación de la misión*
 
--  ¡Muy bien! Envíame un texto con el nombre de la pokeparada (e.g. Parque Infantil)
+-  *¡Muy bien! Envíame un texto con el nombre de la pokeparada (e.g. Parque Infantil)*
 
--  ¡Muy bien! Envíame un texto con la descripción de la misión (e.g. Atrapar 3 Dittos)
+-  *¡Muy bien! Envíame un texto con la descripción de la misión (e.g. Atrapar 3 Dittos)*
 
--  ¡Muy bien! ¿Qué recompensa tiene esta misión? (e.g. 3 caramelos raros)
+-  *¡Muy bien! ¿Qué recompensa tiene esta misión? (e.g. 3 caramelos raros)*
 
 
 Finalmente, se enviará al grupo automáticamente la información proporcionada.
