@@ -31,7 +31,7 @@ También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemo
 
 - Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ - ¡link automático!
+- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ 
 
 
 
