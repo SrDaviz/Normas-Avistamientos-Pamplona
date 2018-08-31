@@ -13,9 +13,9 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 ❌ **NO se avisa ante cualquier Pokemon**, sólo aquellos que sean difíciles de encontrar y no haya un **EVENTO** por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
 
-📆📅 **Community Day**: con la introducción del C.D., muchos Pokémon que hasta ahora eran considerados raros, una vez finalizado el evento ya no lo son. Estos ya no deben mandarse. (Excepto Larvitar y Dratini) 
+📆 **Community Day**: con la introducción del C.D., muchos Pokémon que hasta ahora eran considerados raros, una vez finalizado el evento ya no lo son. Estos ya no deben mandarse. (Excepto Larvitar y Dratini) 
 
-- **POKEMON QUE SE AVISAN**:
+🐾 **POKEMON QUE SE AVISAN**:
 * ***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
 * ***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
 * ***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
