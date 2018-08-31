@@ -35,13 +35,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ
+❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
 
 
 
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
-Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot] (https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
+Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
 Para crear una investigación debéis teclear por privado /research y el bot os guiará paso a paso con todo lo que necesita.
 
