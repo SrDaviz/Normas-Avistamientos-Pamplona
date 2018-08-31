@@ -34,7 +34,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 - Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ 
+- Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ 
 
 
 
