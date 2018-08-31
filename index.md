@@ -1,4 +1,4 @@
-##POR FAVOR, LEEDLO##
+## POR FAVOR, LEEDLO
 
 Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
