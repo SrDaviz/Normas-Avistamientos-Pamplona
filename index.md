@@ -63,7 +63,7 @@ Finalmente, se enviará al grupo automáticamente la información proporcionada.
 
 
 | **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
-| ------------- | ------------- |
+| :-------------: | ------------- |
 | PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
