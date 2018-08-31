@@ -43,7 +43,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
-Para crear una investigación debéis teclear por privado /research y el bot os guiará paso a paso con todo lo que necesita.
+Para crear una investigación debéis teclear por privado `/research` y el bot os guiará paso a paso con todo lo que necesita.
 
 Los datos que te pedirá son: 
 
