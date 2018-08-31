@@ -20,11 +20,11 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 * ***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
 * ***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
 
-También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
+💯 También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
 
-- **NO informéis de los NIDOS** por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
+🐦 **NO informéis de los NIDOS** por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
 
- ✨ **NO informéis de SHINYS/VARIOCOLORES**, pues son algo individual y aparecen aleatoriamente.
+✨ **NO informéis de SHINYS/VARIOCOLORES**, pues son algo individual y aparecen aleatoriamente.
 
 - Para que todos podamos distinguir la información que nos interesa y no perderla entre otros comentarios, se **BORRARÁN** todos aquellos mensajes que no sean avistamientos de los Pokemons de la lista. Si podéis dar la misma información en un sólo mensaje, no la deis en dos. También procurad absteneros de preguntar e informar de cosas poco relevantes (si no conocéis la ubicación exacta pedid ubicación simplemente, si no os da tiempo no tenéis que informarlo, si lo capturáis nos alegramos todos, pero no hace falta que lo retransmitáis a menos que sea para indicar que sigue allí y, aunque es de bien nacido el ser agradecido, no deis las gracias por el grupo).
 
