@@ -39,7 +39,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 
 
- **INSTRUCCIONES PARA EL BOT DR. DITTO**
+👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a @drditto_bot. ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
