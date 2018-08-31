@@ -28,7 +28,6 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 ✨ **NO informéis de SHINYS/VARIOCOLORES**, pues son algo individual y aparecen aleatoriamente.
 
 ❗ Para que todos podamos distinguir la información que nos interesa y no perderla entre otros comentarios, se **BORRARÁN** todos aquellos mensajes que no sean avistamientos de los Pokemon de la lista. Si podéis dar la misma información en un sólo mensaje, no la deis en dos. También procurad absteneros de preguntar e informar de cosas poco relevantes (si no conocéis la ubicación exacta pedid ubicación simplemente, si no os da tiempo no tenéis que informarlo, si lo capturáis nos alegramos todos, pero no hace falta que lo retransmitáis.
-
 El único mensaje permitido que no sea lo anterior descrito, será para indicar que **YA NO SIGUE** allí y, aunque es de bien nacido el ser agradecido, no deis las gracias por el grupo).
 
 👎 Aquellos que no cumplan las indicaciones antes dadas (enviar mensajes intrascendentes, pokemon que no vienen en la lista, etc) podrán ser **BANEADOS** temporalmente si, tras dos avisos (daos por aludidos si se borran mensajes vuestros), continúan con la misma actitud. Si dicha actitud persiste, la expulsión podrá ser **PERMANENTE**.
