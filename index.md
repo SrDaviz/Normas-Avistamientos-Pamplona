@@ -1,37 +1,54 @@
 ## Normas Avistamientos Pamplona
 
-You can use the [editor on GitHub](https://github.com/SrDaviz/srdaviz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+POR FAVOR, LEEDLO
+Bienvenid@s entrenador@s!
+Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de NORMAS:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Este grupo sirve para avisar de la aparición de pokemons poco usuales en algún sitio de Pamplona y SÓLO para avisar de dichas apariciones.
 
-### Markdown
+-Al avisar de dicho pokemon se debe decir en DÓNDE y la HORA a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-  NO se avisa ante cualquier Pokemon, sólo aquellos que sean difíciles de encontrar y no haya un EVENTO por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
 
-```markdown
-Syntax highlighted code block
+- Community Day: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
 
-# Header 1
-## Header 2
-### Header 3
+- POKEMONS QUE SE AVISAN:
+ GEN1: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
+GEN2: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
+GEN3: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
 
-- Bulleted
-- List
+También cualquiera con IV 96% en adelante que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso SÓLO SE AVISARÁ SI ES 100% )
 
-1. Numbered
-2. List
+- NO informéis de los NIDOS por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
 
-**Bold** and _Italic_ and `Code` text
+- NO informéis de SHINYS/VARIOCOLORES, pues son algo individual y aparecen aleatoriamente.
 
-[Link](url) and ![Image](src)
-```
+- Para que todos podamos distinguir la información que nos interesa y no perderla entre otros comentarios, se BORRARÁN todos aquellos mensajes que no sean avistamientos de los Pokemons de la lista. Si podéis dar la misma información en un sólo mensaje, no la deis en dos. También procurad absteneros de preguntar e informar de cosas poco relevantes (si no conocéis la ubicación exacta pedid ubicación simplemente, si no os da tiempo no tenéis que informarlo, si lo capturáis nos alegramos todos, pero no hace falta que lo retransmitáis a menos que sea para indicar que sigue allí y, aunque es de bien nacido el ser agradecido, no deis las gracias por el grupo).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Aquellos que no cumplan las indicaciones antes dadas (enviar mensajes intrascendentes, pokemon que no vienen en la lista, etc) podrán ser BANEADOS temporalmente si, tras dos avisos (daos por aludidos si se borran mensajes vuestros), continúan con la misma actitud. Si dicha actitud persiste, la expulsión podrá ser PERMANENTE.
 
-### Jekyll Themes
+- Para las personas interesadas en otros pokemons, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SrDaviz/srdaviz.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-### Support or Contact
+- Si hay algún problema o tienes alguna duda, hay un grupo de destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+INSTRUCCIONES PARA EL BOT DR. DITTO
+Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando /register c53e1d en un mensaje privado a @drditto_bot. ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
+
+Para crear una investigación debéis teclear por privado /research y el bot os guiará paso a paso con todo lo que necesita.
+
+Los datos que te pedirá son: 
+
+-  Me tienes que enviar un mapa con la ubicación de la misión
+
+-  ¡Muy bien! Envíame un texto con el nombre de la pokeparada (e.g. Parque Infantil)
+
+-  ¡Muy bien! Envíame un texto con la descripción de la misión (e.g. Atrapar 3 Dittos)
+
+-  ¡Muy bien! ¿Qué recompensa tiene esta misión? (e.g. 3 caramelos raros)
+
+
+Finalmente, se enviará al grupo automáticamente la información proporcionada.
