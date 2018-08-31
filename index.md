@@ -62,9 +62,9 @@ Finalmente, se enviará al grupo automáticamente la información proporcionada.
 
 
 
-| First Header  | Second Header |
+| GENERACIÓN  | POKEMON QUE SE AVISAN |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| GEN1  | Content Cell  |
+| GEN2  | Content Cell  |
+| GEN3  | Content Cell  |
 
