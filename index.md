@@ -12,10 +12,10 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 - **Community Day**: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
 
-- **POKEMONS QUE SE AVISAN**:
-***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
-***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
-***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
+- **POKEMON QUE SE AVISAN**:
+* ***GEN1***: Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther,  Dratini, Dragonair y Dragonite, Snorlax, Chansey, Lapras, Aerodactyl
+* ***GEN2***: Meganium, Typhlosion, Feraligatr, Donphan, Larvitar y Mareep con sus evoluciones, Blissey,  Miltank, Togetic, Unown.
+* ***GEN3***: Slakoth, Vigoroth, Ralts, Kirlia, Lileep, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Trapinch, Vibrava, Chimecho, Armaldo.
 
 También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
 
@@ -35,7 +35,7 @@ También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemo
 
 
 
-**INSTRUCCIONES PARA EL BOT DR. DITTO**
+* **INSTRUCCIONES PARA EL BOT DR. DITTO**
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando **/register c53e1d** en un mensaje privado a @drditto_bot. ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, `<addr>`aa  ¿No?
 
 Para crear una investigación debéis teclear por privado /research y el bot os guiará paso a paso con todo lo que necesita.
