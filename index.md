@@ -3,7 +3,7 @@
 Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
 
-👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con @detectivepikachubot 
+👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
 🔞 Como somos una comunidad muy grande y de todas las edades, no está permitida la entrada a menores de edad por las responsibilidades que puedan acarraear
 
@@ -35,9 +35,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ] (https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
-
-
+❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ]
 
 
 
