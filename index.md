@@ -7,7 +7,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 🔞 Como somos una comunidad muy grande y de todas las edades, no está permitida la entrada a menores de edad por las responsibilidades que puedan acarraear
 
-📢 Este grupo sirve para avisar de la aparición de pokemons poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
+📢 Este grupo sirve para avisar de la aparición de pokemon poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
 
 📍 Al avisar de dicho pokemon se debe decir en **DÓNDE** y la **HORA** a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
 
