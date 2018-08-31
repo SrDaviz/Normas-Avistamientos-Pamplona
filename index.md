@@ -30,11 +30,12 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 👎 Aquellos que no cumplan las indicaciones antes dadas (enviar mensajes intrascendentes, pokemon que no vienen en la lista, etc) podrán ser **BANEADOS** temporalmente si, tras dos avisos (daos por aludidos si se borran mensajes vuestros), continúan con la misma actitud. Si dicha actitud persiste, la expulsión podrá ser **PERMANENTE**.
 
-👥 Para las personas interesadas en otros pokemons, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
+👀 Para las personas interesadas en otros pokemons, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
 ❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ 
+
 
 
 
