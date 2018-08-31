@@ -11,7 +11,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 📍 Al avisar de dicho pokemon se debe decir en **DÓNDE** y la **HORA** a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
 
-❌ **NO se avisa ante cualquier Pokemon**, sólo aquellos que sean difíciles de encontrar y no haya un EVENTO por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
+❌ **NO se avisa ante cualquier Pokemon**, sólo aquellos que sean difíciles de encontrar y no haya un **EVENTO** por el que en ese momento sean más frecuentes (por ejemplo, un Tyranitar, un Chansey o un Unown siempre son bien recibidos, pero si por un evento hay más Chanseys (como ya ocurrió), no os molestéis en avisar cada vez que aparece uno.
 
 - **Community Day**: con la introducción del C.D., muchos Pokémon que eran considerados raros, terminado el evento ya no lo son. Estos ya no deben mandarse. 
 
