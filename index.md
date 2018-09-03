@@ -4,7 +4,7 @@ Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
 <ol>
   <li>
-    <a href="#normas-basicas" Normas básicas>
+    <a href="#normas-basicas"> Normas básicas</a>
   </li>
 </ol>  
       <h1 id="normas-basicas">Normas básicas</h1>
