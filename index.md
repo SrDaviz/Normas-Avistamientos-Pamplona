@@ -38,7 +38,6 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 🔎 **MISIONES QUE SE AVISAN**:
 
-
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
 | Acierta un gran lanzamiento de bola curva  | Spinda  |
@@ -47,15 +46,6 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | Usa 10 bayas para capturar un Pokémon  | Growlithe  |
 | Atrapa un Pokémon de tipo Dragón  | Dratini  | 
   
-
-
-✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
-
-❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
-
-
-
-
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
@@ -75,8 +65,7 @@ Los datos que te pedirá son:
 
 Finalmente, se enviará al grupo automáticamente la información proporcionada.
 
+✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
-
-
-
+❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
 
