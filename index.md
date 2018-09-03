@@ -41,6 +41,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 ❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
 
 
+🔎 **MISIONES QUE SE AVISAN**:
+
+| **MISIÓN**  | **RECOMPENSA** |
+| :-------------: | ------------- |
+| PRIMERA  | aaaaaaaaa  |
+| SEGUNDA  | bbbbbbb  |
+| TERCERA  | ccccc  |
 
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
