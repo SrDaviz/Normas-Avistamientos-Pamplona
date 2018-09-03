@@ -45,9 +45,11 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | ------------- |
-| PRIMERA  | aaaaaaaaa  |
-| SEGUNDA  | bbbbbbb  |
-| TERCERA  | ccccc  |
+| Acierta un gran lanzamiento de bola curva  | Spinda  |
+| Haz eclosionar 5 huevos  | Chansey  |
+| Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
+| Usa 10 bayas para capturar un Pokémon  | Growlithe  |
+| Atrapa un Pokémon de tipo Dragón  | Dratini  | 
 
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
