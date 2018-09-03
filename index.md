@@ -15,14 +15,6 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 📆 **Community Day**: con la introducción del Día de la Comunidad, muchos Pokémon que hasta entonces eran considerados raros, finalizado el evento ya no lo son. Estos ya no deben mandarse. (Excepto Larvitar y Dratini) 
 
-🐾 **POKEMON QUE SE AVISAN**:
-
-| **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
-| :-------------: | ------------- |
-| PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
-| SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
-| TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
-
 💯 También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
 
 🐦 **NO informéis de los NIDOS** por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
@@ -36,10 +28,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
-✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
+🐾 **POKEMON QUE SE AVISAN**:
 
-❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
-
+| **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
+| :-------------: | ------------- |
+| PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
+| SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
+| TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
 
 🔎 **MISIONES QUE SE AVISAN**:
 
@@ -50,6 +45,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Usa 10 bayas para capturar un Pokémon  | Growlithe  |
 | Atrapa un Pokémon de tipo Dragón  | Dratini  | 
+
+✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
+
+❓ Si hay algún problema o tienes alguna duda, hay un grupo destinado a ello, dónde podéis preguntar y exponer cualquier aspecto que consideréis que se puede mejorar [https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ](https://t.me/joinchat/Ghjvo0tYSvOUevdqTTbTPQ)
+
+
+
 
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
 
