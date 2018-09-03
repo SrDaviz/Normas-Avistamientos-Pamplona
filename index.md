@@ -7,7 +7,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
     <a href="#normas-basicas"> Normas básicas</a>
   </li>
 </ol>  
-      <h2 id="normas-basicas">Normas básicas</h2>
+      <h3 id="normas-basicas">Normas básicas</h3>
  
 👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
