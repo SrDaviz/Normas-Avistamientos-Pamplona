@@ -38,6 +38,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 🔎 **MISIONES QUE SE AVISAN**:
 
+<center>
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
 | Acierta un gran lanzamiento de bola curva  | Spinda  |
@@ -45,6 +46,8 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Usa 10 bayas para capturar un Pokémon  | Growlithe  |
 | Atrapa un Pokémon de tipo Dragón  | Dratini  | 
+  
+</center>  
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
