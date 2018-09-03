@@ -9,7 +9,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
   <li><a href="#instrucciones-ditto"> Instrucciones Dr. Ditto</a></li>
 </ol>  
 
-<h3 id="normas-basicas">Normas básicas</h3>
+<h4 id="normas-basicas">Normas básicas</h4>
  
 👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
 
@@ -36,8 +36,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
-🐾 **POKEMON QUE SE AVISAN**:
-<h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN</h4>
+<h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN:</h4>
 
 | **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
 | :-------------: | ------------- |
@@ -45,7 +44,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
 
-🔎 **MISIONES QUE SE AVISAN**:
+<h4 id="avisos-misiones">🔎 MISIONES QUE SE AVISAN:</h4>
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
@@ -57,6 +56,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | Captura 5 Pokémon de tipo Fuego  | 1 Baya Pinia plateada  | 
   
 👾 **INSTRUCCIONES PARA EL BOT DR. DITTO**
+<h4 id="instrucciones-ditto">👾 INSTRUCCIONES PARA EL BOT DR. DITTO</h4>
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
