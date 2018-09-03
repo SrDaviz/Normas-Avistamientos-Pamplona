@@ -37,7 +37,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
 🐾 **POKEMON QUE SE AVISAN**:
-<h3 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN</h3>
+<h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN</h4>
 
 | **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
 | :-------------: | ------------- |
