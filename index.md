@@ -4,6 +4,9 @@ Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
 <ol>
   <li><a href="#normas-basicas"> Normas básicas</a></li>
+  <li><a href="#avisos-pokemon"> Pokémon que se avisan</a></li>
+  <li><a href="#avisos-misiones"> Misiones que se avisan</a></li>
+  <li><a href="#instrucciones-ditto"> Instrucciones Dr. Ditto</a></li>
 </ol>  
 
 <h3 id="normas-basicas">Normas básicas</h3>
@@ -34,6 +37,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
 🐾 **POKEMON QUE SE AVISAN**:
+<h3 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN</h3>
 
 | **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
 | :-------------: | ------------- |
