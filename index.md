@@ -44,7 +44,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 🔎 **MISIONES QUE SE AVISAN**:
 
 | **MISIÓN**  | **RECOMPENSA** |
-| :-------------: | ------------- |
+| :-------------: | :-------------: |
 | Acierta un gran lanzamiento de bola curva  | Spinda  |
 | Haz eclosionar 5 huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
