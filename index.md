@@ -7,7 +7,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 🔞 Somos una comunidad muy grande y de edades muy variadas; y a día de hoy no está permitida la entrada a menores de edad por las responsibilidades que conllevan. Esta norma también se aplica en el grupo de Raids.
 
-📢 Este grupo sirve para avisar de la aparición de pokemon poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
+📢 Este grupo sirve para avisar de la aparición de pokemon y misiones poco usuales en algún sitio de Pamplona y **SÓLO** para avisar de dichas apariciones.
 
 📍 Al avisar de dicho pokemon se debe decir en **DÓNDE** y la **HORA** a la que fue encontrado, para que los demás puedan tener una referencia sobre si pueden capturarlo.
 
