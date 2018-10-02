@@ -48,13 +48,15 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
-| Acierta 1 gran lanzamiento de bola curva  | Spinda  |
+| Acierta 2 grandes lanzamientos de bola curva  | Spinda #1  |
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
-| Usa 10 bayas para capturar un Pokémon  | Growlithe  |
-| Captura 1 Pokémon de tipo Dragón  | Dratini  | 
-| Captura 5 Pokémon de tipo Fuego  | 1 Baya Pinia plateada  | 
-  
+| Captura 1 Pokémon de tipo Dragón  | Dratini  |
+| Captura 5 Pokémon  | Krabby ✨ |
+| Captura 5 Pokémon de tipo Agua  | Krabby ✨ |
+| Usa 5 bayas pinias para capturar un Pokémon  | 1 Baya Pinia plateada  | 
+| Evoluciona 10 Pokémon de tipo Agua  | Dratini  |  
+
 <h4 id="instrucciones-ditto">👾 INSTRUCCIONES PARA EL BOT DR. DITTO</h4>
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
