@@ -11,7 +11,7 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 <h4 id="normas-basicas">NORMAS BÁSICAS</h4>
  
-👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot)
+👤 Dado que somos muchos, será necesario contar con una imagen de perfil, un alias y estar validado con [@detectivepikachubot](https://t.me/detectivepikachubot) y [@profserbalbot](https://t.me/profserbalbot)
 
 🔞 Somos una comunidad muy grande y de edades muy variadas; a día de hoy no está permitida la entrada a menores de edad por las responsibilidades que conllevan. Esta norma también se aplica en el grupo de Raids.
 
