@@ -56,7 +56,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | Captura 5 Pokémon de tipo Agua  | Krabby ✨ |
 | Usa 5 bayas pinias para capturar un Pokémon  | 1 Baya Pinia plateada  | 
 | Evoluciona 10 Pokémon de tipo Agua  | Dratini  |  
-| Transfiere un Pokémon  | Feebas  |  
+| Intercambia un Pokémon  | Feebas  |  
 | Captura 10 Pokémon de tipo fantasma  | Sableye ✨ |
 
 <h4 id="instrucciones-ditto">👾 INSTRUCCIONES PARA EL BOT DR. DITTO</h4>
