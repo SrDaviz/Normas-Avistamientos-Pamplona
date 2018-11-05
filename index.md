@@ -48,16 +48,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
-| Acierta 2 grandes lanzamientos de bola curva  | Spinda #1  |
+| Acierta 3 buenos lanzamientos de bola curva  | Spinda #7  |
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Captura 1 Pokémon de tipo Dragón  | Dratini  |
-| Captura 5 Pokémon  | Krabby ✨ |
-| Captura 5 Pokémon de tipo Agua  | Krabby ✨ |
-| Usa 5 bayas pinias para capturar un Pokémon  | 1 Baya Pinia plateada  | 
-| Evoluciona 10 Pokémon de tipo Agua  | Dratini  |  
-| Intercambia un Pokémon  | Feebas  |  
-| Captura 10 Pokémon de tipo fantasma  | Sableye ✨ |
+| Captura 5 Pokémon de tipo Bicho  | Nincada  |
+| Evoluciona 2 Pidgey  | Caterpie ✨ |
+| Gana en una raid  | Pineco ✨ |
 
 <h4 id="instrucciones-ditto">👾 INSTRUCCIONES PARA EL BOT DR. DITTO</h4>
 
