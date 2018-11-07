@@ -43,6 +43,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
+| CUARTA  | Buizel.  |
 
 <h4 id="avisos-misiones">🔎 MISIONES QUE SE AVISAN:</h4>
 
