@@ -25,6 +25,8 @@ Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS
 
 💯 También cualquiera con **IV 96% en adelante** que aparezca. (Exceptuando Pokemon muy comunes, p.e. Pidgey, Caterpie, etc. En este caso **SÓLO SE AVISARÁ SI ES 100%**)
 
+0️⃣ Cualquier pokémon de **0 % IV** también es bienvenido.
+
 🐦 **NO informéis de los NIDOS** por este grupo, para eso está el grupo general. Tampoco los pidáis por este grupo.
 
 ✨ **NO informéis de SHINYS/VARIOCOLORES**, pues son algo individual y aparecen aleatoriamente.
@@ -49,13 +51,17 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
-| Acierta 3 buenos lanzamientos de bola curva  | Spinda #7  |
+| Acierta 1 gran lanzamiento de bola curva  | Spinda #6  |
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Captura 1 Pokémon de tipo Dragón  | Dratini  |
 | Captura 5 Pokémon de tipo Bicho  | Nincada  |
 | Evoluciona 2 Pidgey  | Caterpie ✨ |
 | Gana en una raid  | Pineco ✨ |
+| Acierta 3 grandes lanzamientos | Gastly ✨ |
+| Transfiere 10 pokémon  | Misdreavus ✨ |
+| Intercambia un pokémon  | Feebas |
+| Da más poder 10 veces a un pokémon  | 3 bayas pinias plateadas |
 
 <h4 id="instrucciones-ditto">👾 INSTRUCCIONES PARA EL BOT DR. DITTO</h4>
 
