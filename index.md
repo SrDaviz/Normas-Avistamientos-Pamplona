@@ -45,7 +45,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 - El bot os pedirá que mandéis una **foto** (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.e. _Es 98%, no sé cuanto tiempo le queda_). A continuación os pedirá la **ubicación** y borrará los mensajes.  
 
-- El bot **reenviará** la foto y la ubicación añadiendo dos botones: **"Sigue ahí"** y **"No está"** para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido.  
+- El bot **reenviará** la foto y la ubicación añadiendo dos botones: **"Sigue ahí"** y **"No está"** para que los miembros del grupo puedan indicar si el Pokémon aún no ha desaparecido.  
 
 - Con cada voto se editará el mensaje con los últimos votos y la hora.
 
