@@ -41,9 +41,10 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 <h4 id="avistamientos">CÓMO AVISAR UN POKÉMON</h4>
 
-Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`.   
-El bot os pedirá que mandéis la foto (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.j. Es 98%, no sé cuanto tiempo le queda). A continuación os pedirá la ubicación y borrará los mensajes.  
-El bot reenviará la foto y la ubicación añadiendo dos botones: "Sigue ahí" y "No está" para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido. Con cada voto se editará el mensaje con los últimos votos y la hora.
+• Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`.   
+• El bot os pedirá que mandéis la foto (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.j. Es 98%, no sé cuanto tiempo le queda). A continuación os pedirá la ubicación y borrará los mensajes.  
+• El bot reenviará la foto y la ubicación añadiendo dos botones: "Sigue ahí" y "No está" para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido.  
+• Con cada voto se editará el mensaje con los últimos votos y la hora.
 
 <h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN:</h4>
 
