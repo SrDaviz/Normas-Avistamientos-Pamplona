@@ -4,6 +4,7 @@ Bienvenid@s entrenador@s!
 Aunque tod@s somos bienvenid@s, se agradece que respetéis una serie de **NORMAS**:
 <ol>
   <li><a href="#normas-basicas"> Normas básicas</a></li>
+  <li><a href="#avistamientos"> Cómo mandar avistamientos</a></li>
   <li><a href="#avisos-pokemon"> Pokémon que se avisan</a></li>
   <li><a href="#avisos-misiones"> Misiones que se avisan</a></li>
   <li><a href="#instrucciones-ditto"> Instrucciones Dr. Ditto</a></li>
@@ -38,6 +39,11 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
+<h4 id="avistamientos">CÓMO MANDAR AVISTAMIENTOS</h4>
+
+Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`. El bot os pedirá que mandéis la foto (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.j. Es 98%, no sé cuanto tiempo le queda). A continuación os pedirá la ubicación y borrará los mensajes.
+El bot reenviará la foto y la ubicación añadiendo dos botones: "Sigue ahí" y "No está" para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido. Con cada voto se editará el mensaje con los últimos votos y la hora.
+
 <h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN:</h4>
 
 | **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
@@ -45,7 +51,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
-| CUARTA  | Buizel  |
+| CUARTA  | Buizel, Floatzel  |
 
 <h4 id="avisos-misiones">🔎 MISIONES QUE SE AVISAN:</h4>
 
