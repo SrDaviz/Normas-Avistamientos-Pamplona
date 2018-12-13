@@ -41,14 +41,17 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 <h4 id="avistamientos">CÓMO AVISAR UN POKÉMON</h4>
 
-• Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`.   
-• El bot os pedirá que mandéis la foto (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.j. Es 98%, no sé cuanto tiempo le queda). A continuación os pedirá la ubicación y borrará los mensajes.  
-• El bot reenviará la foto y la ubicación añadiendo dos botones: "Sigue ahí" y "No está" para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido.  
-• Con cada voto se editará el mensaje con los últimos votos y la hora.
+- Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`.   
 
-<h4 id="avisos-pokemon">🐾 POKEMON QUE SE AVISAN:</h4>
+- El bot os pedirá que mandéis una **foto** (más que aconsejable que sea una captura del Calcy / PokeGenie), se le puede poner un comentario a la foto (p.j. _Es 98%, no sé cuanto tiempo le queda_). A continuación os pedirá la **ubicación** y borrará los mensajes.  
 
-| **GENERACIÓN**  | **POKEMON QUE SE AVISAN** |
+- El bot **reenviará** la foto y la ubicación añadiendo dos botones: **"Sigue ahí"** y **"No está"** para que los miembros de grupo puedan indicar si el Pokémon aún no ha desaparecido.  
+
+- Con cada voto se editará el mensaje con los últimos votos y la hora.
+
+<h4 id="avisos-pokemon">🐾 POKÉMON QUE SE AVISAN:</h4>
+
+| **GENERACIÓN**  | **POKÉMON QUE SE AVISAN** |
 | :-------------: | :-------------: |
 | PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
@@ -57,22 +60,23 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 <h4 id="misiones">👾 CÓMO AVISAR DE UNA MISIÓN</h4>
 
-Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/register c53e1d` en un mensaje privado a [@drditto_bot](https://t.me/drditto_bot). ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
+Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/addgroup` en el grupo para registrarlo. Este mensaje se borrará automático ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
-Para crear una investigación debéis teclear por privado `/research` y el bot os guiará paso a paso con todo lo que necesita.
+Para crear una investigación debéis teclear por privado a [@profserbalbot](https://t.me/profserbalbot).`/research` y el bot os guiará paso a paso con todo lo que necesita.
 
 Los datos que te pedirá son: 
 
--  *Me tienes que enviar un mapa con la ubicación de la misión*
+-  *¿Cuál es el nombre de la poképarada en la que has encontrado la misión? (e.g. Campo de Fútbol)*
 
--  *¡Muy bien! Envíame un texto con el nombre de la pokeparada (e.g. Parque Infantil)*
+-  *Ahora envíame el texto de la misión (e.g. Evoluciona 1 Pokémon)*
 
--  *¡Muy bien! Envíame un texto con la descripción de la misión (e.g. Atrapar 3 Dittos)*
+-  *¿Cuál es la recompensa por completar la misión? (e.g. 1 revivir)*
 
--  *¡Muy bien! ¿Qué recompensa tiene esta misión? (e.g. 3 caramelos raros)*
+-  *Por último, mándame la ubicación de la parada.*
 
 
 Finalmente, se enviará al grupo automáticamente la información proporcionada.
+
 
 <h4 id="avisos-misiones">🔎 MISIONES QUE SE AVISAN:</h4>
 
