@@ -39,7 +39,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 👀 Para las personas interesadas en otros pokemon, existe otro grupo llamado Pokemon Go Pamplona, en el que se puede preguntar por aquel que te interese.
 
-<h4 id="avistamientos">CÓMO AVISAR UN POKÉMON</h4>
+<h4 id="avistamientos">📝 CÓMO AVISAR UN POKÉMON</h4>
 
 - Para mandar un avistamiento Pokémon, tenéis que escribir en el grupo `/avistamiento`.   
 
@@ -58,7 +58,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
 | CUARTA  | Buizel, Floatzel  |
 
-<h4 id="misiones">👾 CÓMO AVISAR DE UNA MISIÓN</h4>
+<h4 id="misiones">📝 CÓMO AVISAR DE UNA MISIÓN</h4>
 
 Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/addgroup` en el grupo para registrarlo. Este mensaje se borrará automático ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
 
