@@ -86,7 +86,6 @@ Finalmente, se enviará al grupo automáticamente la información proporcionada.
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Captura 1 Pokémon de tipo Dragón  | Dratini  |
-| Acierta 3 grandes lanzamientos | Gastly ✨ |
 | Da más poder 10 veces a un pokémon  | 3 bayas pinias plateadas |
 | Misiones del mes  | ✨ |
 | Mision baya Pinia Plateada  | - |
