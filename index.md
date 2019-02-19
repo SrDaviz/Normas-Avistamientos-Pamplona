@@ -82,7 +82,7 @@ Finalmente, se enviará al grupo automáticamente la información proporcionada.
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
-| Acierta 5 gran lanzamiento de bola curva seguidos | Spinda #❤  |
+| Acierta 5 gran lanzamiento de bola curva seguidos | Spinda ❤  |
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Captura 1 Pokémon de tipo Dragón  | Dratini  |
