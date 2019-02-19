@@ -56,7 +56,7 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 | PRIMERA  | Venusaur, Charizard, Blastoise, Nidoqueen, Nidoking, Vileplume, Poliwrath, Alakazam, Machamp, Victreebel, Golem, Gengar, Exeggutor, Lickitung, Scyther, Dratini con sus evoluciones, Snorlax, Chansey, Lapras, Aerodactyl  |
 | SEGUNDA  | Meganium, Typhlosion, Feraligatr, Donphan, Larvitar con sus evoluciones, Ampharos, Blissey,  Miltank, Togetic, Unown.  |
 | TERCERA  | Slakoth, Vigoroth, Ralts, Kirlia, Cradily, Feebas, Bagon, Shelgon, Beldum, Metang, Vibrava, Chimecho.  |
-| CUARTA  | Buizel, Floatzel  |
+| CUARTA  | Buizel, Floatzel, Cranidos, Shieldon, Combee, Bronzong, Drapion, Toxicroak, Lumineon  |
 
 <h4 id="misiones">📝 CÓMO AVISAR DE UNA MISIÓN</h4>
 
@@ -82,17 +82,14 @@ Finalmente, se enviará al grupo automáticamente la información proporcionada.
 
 | **MISIÓN**  | **RECOMPENSA** |
 | :-------------: | :-------------: |
-| Acierta 1 gran lanzamiento de bola curva  | Spinda #6  |
+| Acierta 5 gran lanzamiento de bola curva seguidos | Spinda #❤  |
 | Haz eclosionar 5 Huevos  | Chansey  |
 | Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
 | Captura 1 Pokémon de tipo Dragón  | Dratini  |
-| Captura 5 Pokémon de tipo Bicho  | Nincada  |
-| Evoluciona 2 Pidgey  | Caterpie ✨ |
-| Gana en una raid  | Pineco ✨ |
 | Acierta 3 grandes lanzamientos | Gastly ✨ |
-| Transfiere 10 pokémon  | Misdreavus ✨ |
-| Intercambia un pokémon  | Feebas |
 | Da más poder 10 veces a un pokémon  | 3 bayas pinias plateadas |
+| Misiones del mes  | ✨ |
+| Mision baya Pinia Plateada  | - |
 
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
