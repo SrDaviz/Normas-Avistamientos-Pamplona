@@ -60,36 +60,13 @@ El único mensaje permitido que no sea lo anterior descrito, será para indicar 
 
 <h4 id="misiones">📝 CÓMO AVISAR DE UNA MISIÓN</h4>
 
-Todos aquellos que deseen colaborar colocando investigaciones deberán registrarse utilizando el comando `/addgroup` en el grupo para registrarlo. Este mensaje se borrará automático ¡Una vez registrado ya podéis empezar a crear misiones! Sencillo, ¿No?
+Para mandar una misión, primero comparte la ubicación desde Telegram (icono de adjuntar 📎 y selecciona Ubicación).  
 
-Para crear una investigación debéis teclear por privado a [@profserbalbot](https://t.me/profserbalbot).`/research` y el bot os guiará paso a paso con todo lo que necesita.
+A continuación el bot "Nidos Pokémon Bot" os responderá preguntando qué es lo que has encontrado, elije Misión y busca entre las opciones que te ofrece la que se corresponde con la que quieras mandar. 
 
-Los datos que te pedirá son: 
+Por último, te preguntará el nombre de la parada, si ya la conoce te puede preguntar a ver si es esa. En el caso de que no esté escribe el nombre y dale a enviar. 
 
--  *¿Cuál es el nombre de la poképarada en la que has encontrado la misión? (e.g. Campo de Fútbol)*
-
--  *Ahora envíame el texto de la misión (e.g. Evoluciona 1 Pokémon)*
-
--  *¿Cuál es la recompensa por completar la misión? (e.g. 1 revivir)*
-
--  *Por último, mándame la ubicación de la parada.*
-
-
-Finalmente, se enviará al grupo automáticamente la información proporcionada.
-
-
-<h4 id="avisos-misiones">🔎 MISIONES QUE SE AVISAN:</h4>
-
-| **MISIÓN**  | **RECOMPENSA** |
-| :-------------: | :-------------: |
-| Acierta 5 gran lanzamiento de bola curva seguidos | Spinda ❤  |
-| Haz eclosionar 5 Huevos  | Chansey  |
-| Acierta 3 lanzamientos excelentes seguidos  | Larvitar  |
-| Captura 1 Pokémon de tipo Dragón  | Dratini  |
-| Da más poder 10 veces a un pokémon  | 3 bayas pinias plateadas |
-| Misiones del mes  | ✨ |
-| Mision baya Pinia Plateada  | - |
-
+Con el nuevo bot se pueden enviar todas las misiones y podeis utilizar el mapa para localizar las que os interesen.
 
 ✅ Como siempre, se agradece que todos participemos y no nos aprovechemos de la buena fe de los demás.
 
